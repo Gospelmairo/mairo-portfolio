@@ -55,7 +55,7 @@ export default function Learning() {
           <div className="flex items-center gap-3 mb-4">
             <div className="h-px flex-1 max-w-12 bg-[var(--card-border)]" />
             <span className="text-xs font-code text-[var(--accent)] uppercase tracking-widest">
-              05 / Reflection
+              Reflection
             </span>
           </div>
           <h2 className="text-3xl md:text-4xl font-bold text-[var(--foreground)] mb-4">
